@@ -40,7 +40,6 @@ public class Mandell_4_prime_methods {
         if (x % i  == 0);
            divisor += 1;
     }
-}
     if(divisor > 0){
         return false;
 } else {
@@ -49,4 +48,4 @@ public class Mandell_4_prime_methods {
 }
 }
     
-//
+//this is a program, that counts evens, odds, and then says primes

@@ -56,10 +56,9 @@ System.out.println("Five gusses left!");
 System.out.println ("Only 2 guesses left!");
 }else if (guessesleft == 1){
     System.out.println("ONE GUESS LEFT, MAKE IT COUNT!");
-}else if (guessesleft == 0)
+}else if (guessesleft == 0){
     System.out.println ("sorry game over!");
-if (guessesleft == 0)
-    playagain = false;
+    playagain = false;}
 if (magicnumber == userguess){
 System.out.println (" You win, let's play again!");
 playagain = false;
@@ -71,4 +70,4 @@ System.out.println("Nope Too high!");
 }
 }
 }
-//needs a bit of work, but cool first game!    
+//needs a bit of work, but cool first game!     

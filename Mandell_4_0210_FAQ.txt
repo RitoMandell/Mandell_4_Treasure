@@ -1,0 +1,10 @@
+1-Problems with it not being visible/not being drawn
+2-Making it move correctly
+3-Having it not intersect with enemies properly
+4-Hitbox issues
+5-Moving in the direction player is facing
+6-Size of the orb(is a quick fix and not a real problem)
+7-Making it dissapear
+8-Having the hitbox of the orb staying
+9-Animation of the orb moving
+
